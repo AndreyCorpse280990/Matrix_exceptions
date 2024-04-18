@@ -8,8 +8,6 @@ public class Matrix
     private int[,] array;
     private Random random = new Random();
     
-
-            
     // Конструктор класса.
     public Matrix() {}
 
